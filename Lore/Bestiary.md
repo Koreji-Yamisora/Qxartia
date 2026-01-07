@@ -128,7 +128,7 @@ Legendary beings that rule Abyss layers: Demogorgon, Orcus, Graz'zt, Yeenoghu, B
 
 ## Devils (Nine Hells)
 
-From the Nine Hells — an [[astral dominion]] of lawful evil:
+From the Nine Hells — an [[astral dominion]] that may still exist somewhere in [[The Astral Sea]], though no contact has been made since [[The Severing]]:
 
 | Devil | CR | Description |
 |-------|-----|-------------|

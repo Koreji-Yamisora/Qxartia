@@ -23,7 +23,7 @@ Everything in this world gradually loses its sharp edges:
 
 > *From the Canopy Scrolls of [[Kthrimvey]]:*
 >
-> *"To be given form is to be given ending. [[The Forgotten Celestials|The Drifting Ones]] knew no time. Now, pressed into stone and root and river, they know nothing else.*
+> *"To be given form is to be given ending. [[The Drifting Ones]] knew no time. Now, pressed into stone and root and river, they know nothing else.*
 >
 > *Entropy is not punishment. It is the price of being."*
 

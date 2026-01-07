@@ -48,7 +48,7 @@ Selamonius is **the last** of [[The Pantheon]] — the second generation of gods
 |------------|------|--------|
 | 1st | [[The Forgotten Ones]] | Faded — exist only as fragments ([[The Drifting Ones]]) |
 | 2nd | [[The Pantheon]] | Erased — all dead or vanished except Selamonius |
-| 3rd | **Selamonius** | The last — still revered as "God" |
+| 2nd | **Selamonius** | The last of the Pantheon — still revered as "God" |
 
 > ⚠️ *This hierarchy is forbidden knowledge. The [[Fallen Holy Empire]] teaches that God is eternal and uncreated — no predecessors, no siblings, no equals.*
 
@@ -62,7 +62,7 @@ Different cultures understand Selamonius differently:
 |---------|----------------|
 | **Zytharkraen** | A creator-god, benevolent but distant — gave the land its breath |
 | **Vornesthal** | A force of cosmic necessity — neither kind nor cruel, simply *inevitable* |
-| **K'thrimvey** | A prison-maker — one who trapped free beings in form and ending |
+| **Kthrimvey** | A prison-maker — one who trapped free beings in form and ending |
 
 ---
 
@@ -97,3 +97,5 @@ No scripture records what happened after the shaping. Some theories:
 - [[The Pantheon]] — The second generation of gods
 - [[The Drifting Ones]] — Fragments of the Forgotten Ones, shaped into continents
 - [[Fallen Holy Empire]] — Those who rewrote divine history
+- [[The Severing]] — When the Pantheon fell
+

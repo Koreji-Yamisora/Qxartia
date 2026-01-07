@@ -89,6 +89,22 @@ Halflings are entirely of the Material Plane — perhaps the most purely mortal 
 
 ---
 
+### Orcs
+_"The Fierce Ones"_
+
+Orcs are a proud warrior race, often at odds with other civilizations. Their origins are disputed — some say they were created by a war-god of [[The Pantheon]], others that they evolved naturally in the harshest regions.
+
+| Trait | Description |
+|-------|-------------|
+| **Origin** | Material Plane (possibly divine creation) |
+| **Lifespan** | 50-60 years |
+| **Traits** | Powerful build, aggressive, tribal society |
+| **Continent Presence** | Strongest in [[Zytharkraen]] borderlands; clans scattered elsewhere |
+
+> ⚠️ *The [[Fallen Holy Empire]] classified orcs as "monstrous" rather than a race, a prejudice that persists in some regions.*
+
+---
+
 ### Gnomes
 _"The Tinkerers"_
 
@@ -113,7 +129,7 @@ Gnomes are cousins to the fey, though more distant than elves. Their connection 
 ### Tieflings
 _"The Infernal-Touched"_
 
-Tieflings carry the blood of fiends — demons from [[The Abyss]] or devils from the Nine Hells (an [[astral dominion]] some believe still exists). Their appearance marks them as outsiders.
+Tieflings carry the blood of fiends — demons from [[The Abyss]] or devils from the Nine Hells (an [[astral dominion]] that may still exist, though unconfirmed since [[The Severing]]). Their appearance marks them as outsiders.
 
 | Trait | Description |
 |-------|-------------|

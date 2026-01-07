@@ -31,6 +31,49 @@ The Empire's core doctrine:
 
 ---
 
+## Why They Hid the Truth
+
+The Empire's deception was not random cruelty — it was **calculated survival**:
+
+### 1. The Problem of Despair
+If people learned that the gods who created the world were **dead or vanished**, despair would spread:
+- Why worship if the gods cannot answer?
+- Why follow moral law if divine judgment is impossible?
+- Why hope if even gods can die?
+
+The Empire believed (perhaps correctly) that revealing the truth would cause **civilizational collapse**.
+
+### 2. The Problem of Power
+The Empire's authority rested on a simple claim: *"We speak for God."*
+
+If people learned there were **multiple gods**, questions would arise:
+- Which god should we follow?
+- Who speaks for the *real* gods?
+- Why should the Empire have authority over the worship of gods they've never met?
+
+A single, silent god was easier to interpret — and control.
+
+### 3. The Problem of Blame
+[[The Severing]] broke the planes and accelerated [[Entropy]]. If people learned the truth, they might ask:
+- Did the Pantheon cause The Severing?
+- Could it have been prevented?
+- Is [[Selamonius]] responsible for the death of the other gods?
+
+The Empire could not answer these questions — so they made them **forbidden to ask**.
+
+### 4. The Problem of Artifacts
+The Inquisition discovered that artifacts of the Pantheon **still worked**. Objects blessed by dead gods still held power. Prayers to forgotten names still echoed.
+
+If people learned this, they might:
+- Seek out old gods
+- Reject the Empire's monopoly on the divine
+- Discover that "God" was not the only source of power
+
+> 🌑 *"The Empire did not fear that the Pantheon was dead. They feared that the Pantheon was not dead* enough*."*
+> — Recovered Inquisition document
+
+---
+
 ## History of the Empire
 
 ### The Founding (Unknown Date)

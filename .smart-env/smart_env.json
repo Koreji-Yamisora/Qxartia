@@ -1,0 +1,128 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "single_file_data_path": ".smart-env/smart_sources.json",
+    "min_chars": 200,
+    "embed_model": {
+      "adapter": "transformers",
+      "transformers": {
+        "legacy_transformers": false,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "TaylorAI/bge-micro-v2": {}
+    }
+  },
+  "ribbon_icons": {
+    "connections": true,
+    "random_note": false
+  },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "",
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false,
+    "exclude_blocks_from_source_connections": false,
+    "exclude_frontmatter_blocks": true,
+    "expanded_view": false,
+    "results_limit": "20"
+  },
+  "excluded_headings": "",
+  "language": "en",
+  "new_user": true,
+  "re_import_wait_time": 13,
+  "smart_chat_threads": {
+    "chat_model": {
+      "adapter": "lm_studio",
+      "ollama": {
+        "model_key": "qwen3:4b",
+        "host": "http://localhost:11434",
+        "models": {
+          "qwen3:4b": {
+            "model_name": "qwen3:4b",
+            "id": "qwen3:4b",
+            "multimodal": false,
+            "max_input_tokens": 262144,
+            "can_use_tools": true
+          },
+          "deepseek-r1:8b": {
+            "model_name": "deepseek-r1:8b",
+            "id": "deepseek-r1:8b",
+            "multimodal": false,
+            "max_input_tokens": 131072,
+            "can_use_tools": true
+          }
+        }
+      },
+      "lm_studio": {
+        "model_key": "qwen/qwen3-4b-thinking-2507",
+        "models": {
+          "qwen/qwen3-4b-2507": {
+            "id": "qwen/qwen3-4b-2507",
+            "model_name": "qwen/qwen3-4b-2507",
+            "description": "LM Studio model: qwen/qwen3-4b-2507",
+            "multimodal": false
+          },
+          "text-embedding-nomic-embed-text-v1.5": {
+            "id": "text-embedding-nomic-embed-text-v1.5",
+            "model_name": "text-embedding-nomic-embed-text-v1.5",
+            "description": "LM Studio model: text-embedding-nomic-embed-text-v1.5",
+            "multimodal": false
+          },
+          "qwen/qwen3-4b-thinking-2507": {
+            "id": "qwen/qwen3-4b-thinking-2507",
+            "model_name": "qwen/qwen3-4b-thinking-2507",
+            "description": "LM Studio model: qwen/qwen3-4b-thinking-2507",
+            "multimodal": false
+          },
+          "qwen3-4b-mlx": {
+            "id": "qwen3-4b-mlx",
+            "model_name": "qwen3-4b-mlx",
+            "description": "LM Studio model: qwen3-4b-mlx",
+            "multimodal": false
+          }
+        }
+      }
+    },
+    "active_thread_key": "Untitled Chat 2025-08-21 08-51-30",
+    "system_prompt": "",
+    "detect_self_referential": true,
+    "review_context": false,
+    "stream": true,
+    "language": "en",
+    "modifier_key_to_send": "shift",
+    "use_tool_calls": true
+  },
+  "smart_notices": {
+    "muted": {
+      "done_initial_scan": true,
+      "done_import": true,
+      "new_version_available": true
+    }
+  },
+  "version": "",
+  "smart_contexts": {
+    "link_depth": 0,
+    "inlinks": false,
+    "follow_links_in_excluded": true,
+    "excluded_headings": [],
+    "max_len": 0,
+    "templates": {
+      "0": {
+        "before": "<context_primary path=\"{{ITEM_PATH}}\" mtime=\"{{ITEM_TIME_AGO}}\">",
+        "after": "</context_primary>"
+      },
+      "1": {
+        "before": "<context_linked path=\"{{ITEM_PATH}}\" mtime=\"{{ITEM_TIME_AGO}}\">",
+        "after": "</context_linked>"
+      },
+      "-1": {
+        "before": "<context>\n<file_tree>\n{{FILE_TREE}}\n</file_tree>",
+        "after": "</context>"
+      }
+    }
+  }
+}

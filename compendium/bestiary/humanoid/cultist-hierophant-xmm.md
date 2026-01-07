@@ -1,0 +1,111 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- 5e/compendium/src/5e/xmm
+- 5e/monster/cr/10
+- 5e/monster/environment/any
+- 5e/monster/size/small-or-medium
+- 5e/monster/type/humanoid
+aliases:
+- "Cultist Hierophant"
+---
+# Cultist Hierophant
+*Source: Monster Manual (2024) p. 85*  
+
+Cultist hierophants are leaders who oversee the lives of their underlings, dictate the edicts of the cult, and interpret their patron's will. They possess supernatural powers gained from the cult's patron, supernatural sources, or the power of their own fanaticism. These leaders know their cult's deepest secrets and often control strange relics, mystical sites, and monstrous servants.
+
+## Cultists
+
+*Doomsayers and Fanatics*
+
+- **Habitat.** Any  
+- **Treasure.** Individual, [Relics](compendium/tables/random-magic-items-relics.md)  
+
+Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
+
+**Cultist Agendas**
+
+| dice: 1d6 | The Cultist Strives To... |
+|-----------|---------------------------|
+| 1 | Bring about the end of a dominant order, an age, or the world. |
+| 2 | Burn away the comfortable lies of reality, revealing forgotten or terrible truths. |
+| 3 | Expand their faith though mind control or supernatural coercion. |
+| 4 | Make global changes, like sinking the land or awakening volcanoes. |
+| 5 | Remake life on a mass scale, altering other creatures' bodies or spiritual beings. |
+| 6 | Summon their deity or its herald, weapon, or realm into their world. |
+^cultist-agendas
+
+### Occult Symbols
+
+Cults often identify with symbols that exemplify their beliefs. Such symbols might mark objects important to the cult, as well as the dress and bodies of cultists themselves. These symbols might be broadly understandable, or they might have meaning only to cultists. Roll twice on or choose results from the Cult Symbols table to inspire a cult's icons.
+
+**Cult Symbols**
+
+| dice: 1d10 | The Symbol Is... | Depicted As... |
+|------------|------------------|----------------|
+| 1 | An alchemical sign | A calendar or map |
+| 2 | An animal | A crest or as heraldry |
+| 3 | A celestial body | An elaborate diagram |
+| 4 | A deity's icon | A metaphorical image |
+| 5 | An element | A mystical being |
+| 6 | An eye | Part of an equation |
+| 7 | A geometric shape | A repeating pattern |
+| 8 | A letter or number | A series of scratches |
+| 9 | Part of a monster | A simple pictogram |
+| 10 | A skull | A weapon or tool |
+^cult-symbols
+
+### Cult Members
+
+Cults often form hierarchies around a charismatic or domineering leader. While cult members might work independently, they take their orders from superiors with greater supernatural powers. 
+
+### Types of Cultists
+
+Cults can organize around any mystical tradition, but many serve supernatural beings. Cult members often have abilities tied to the forces they worship.
+
+> [!quote] A quote from Rites of the Cult of Elemental Evil  
+> 
+> Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
+
+
+## Statblock
+
+![](compendium/bestiary/humanoid/token/cultist-hierophant-xmm.webp#token)
+*Small or Medium humanoid, Neutral*
+
+- **Armor Class** 16
+- **Hit Points** 144 (`17d8 + 68`)
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|14 (+2)|18 (+4)|18 (+4)|13 (+1)|16 (+3)|20 (+5)|
+
+- **Proficiency Bonus** +4
+- **Saving Throws** Wisdom +7, Charisma +9
+- **Skills** [Perception](compendium/rules/skills.md#Perception) +7, [Persuasion](compendium/rules/skills.md#Persuasion) +9, [Religion](compendium/rules/skills.md#Religion) +5
+- **Senses** passive Perception 17
+- **Gear** [breastplate](compendium/items/breastplate-xphb.md), [holy symbol](compendium/items/holy-symbol-xphb.md)
+- **Languages** Celestial, Common
+- **Challenge** 10
+
+## Actions
+
+***Multiattack.*** The cultist makes three attacks, using Pact Blade or Radiant Ray in any combination.
+
+***Pact Blade.*** *Melee Attack Roll:* +9, reach 5 ft. *Hit:* 12 (2d6 + 5) Slashing damage plus 18 (4d8) Radiant damage.
+
+***Radiant Ray.*** *Ranged Attack Roll:* +9, range 120 ft. *Hit:* 31 (4d12 + 5) Radiant damage.
+
+***Spellcasting.*** The cultist casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 17):
+
+**At will:** [Thaumaturgy](compendium/spells/thaumaturgy-xphb.md)
+
+**1/day each:** [Jallarzi's Storm of Radiance](compendium/spells/jallarzis-storm-of-radiance-xphb.md) (level 7 version), [Mass Suggestion](compendium/spells/mass-suggestion-xphb.md)
+^statblock
+
+## Environment
+
+any

@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-feat
+tags:
+- 5e/compendium/src/5e/xphb
+- 5e/feat
+aliases:
+- "Unarmed Fighting"
+---
+# Unarmed Fighting
+*Source: Player's Handbook (2024) p. 210*  
+
+**Prerequisite**: Fighting Style Feature
+
+When you hit with your [Unarmed Strike](compendium/rules/variant-rules/unarmed-strike-xphb.md) and deal damage, you can deal Bludgeoning damage equal to `1d6` plus your Strength modifier instead of the normal damage of an [Unarmed Strike](compendium/rules/variant-rules/unarmed-strike-xphb.md). If you aren't holding any weapons or a [Shield](compendium/items/shield-xphb.md) when you make the attack roll, the `d6` becomes a `d8`.
+
+At the start of each of your turns, you can deal `1d4` Bludgeoning damage to one creature [Grappled](compendium/rules/conditions.md#Grappled) by you.

@@ -7,7 +7,9 @@ _Quick reference for GMs and world-builders_
 
 ## Cosmology Overview
 
-The **World Axis** is the cosmological model that describes how the planes of existence are structured. This model emerged after [[The Severing]] — the cataclysm that destroyed the old planar bonds when [[The Pantheon]] fell.
+The **World Axis** is the cosmological model that describes how the planes of existence are structured. This model emerged after [[The Severing]] — the cataclysm that destroyed the old planar bonds when [[The Pantheon]] fell and [[The World Tree and The Severing|The World Tree]] was severed from its divine roots.
+
+Before The Severing, the World Tree channeled **ambient mana** throughout all planes, enabling a golden age of magical civilization. Its destruction caused 90% of ambient mana to bleed away, collapsing mana-dependent empires across the cosmos.
 
 ---
 

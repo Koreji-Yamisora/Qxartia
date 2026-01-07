@@ -1,0 +1,114 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- 5e/compendium/src/5e/xmm
+- 5e/monster/cr/8
+- 5e/monster/environment/any
+- 5e/monster/size/small-or-medium
+- 5e/monster/type/humanoid
+aliases:
+- "Fiend Cultist"
+---
+# Fiend Cultist
+*Source: Monster Manual (2024) p. 87*  
+
+Fiend cultists worship fiends or evil deities. They often work to bring ruin to innocents or to summon their sinister patron into the world. Fiend cultists might serve infamous powers such as archdevils and demon lords, or foul immortals—beings such as Demogorgon, Pazuzu, Iuz, Zariel, or Zuggtmoy.
+
+## Cultists
+
+*Doomsayers and Fanatics*
+
+- **Habitat.** Any  
+- **Treasure.** Individual, [Relics](compendium/tables/random-magic-items-relics.md)  
+
+Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
+
+**Cultist Agendas**
+
+| dice: 1d6 | The Cultist Strives To... |
+|-----------|---------------------------|
+| 1 | Bring about the end of a dominant order, an age, or the world. |
+| 2 | Burn away the comfortable lies of reality, revealing forgotten or terrible truths. |
+| 3 | Expand their faith though mind control or supernatural coercion. |
+| 4 | Make global changes, like sinking the land or awakening volcanoes. |
+| 5 | Remake life on a mass scale, altering other creatures' bodies or spiritual beings. |
+| 6 | Summon their deity or its herald, weapon, or realm into their world. |
+^cultist-agendas
+
+### Occult Symbols
+
+Cults often identify with symbols that exemplify their beliefs. Such symbols might mark objects important to the cult, as well as the dress and bodies of cultists themselves. These symbols might be broadly understandable, or they might have meaning only to cultists. Roll twice on or choose results from the Cult Symbols table to inspire a cult's icons.
+
+**Cult Symbols**
+
+| dice: 1d10 | The Symbol Is... | Depicted As... |
+|------------|------------------|----------------|
+| 1 | An alchemical sign | A calendar or map |
+| 2 | An animal | A crest or as heraldry |
+| 3 | A celestial body | An elaborate diagram |
+| 4 | A deity's icon | A metaphorical image |
+| 5 | An element | A mystical being |
+| 6 | An eye | Part of an equation |
+| 7 | A geometric shape | A repeating pattern |
+| 8 | A letter or number | A series of scratches |
+| 9 | Part of a monster | A simple pictogram |
+| 10 | A skull | A weapon or tool |
+^cult-symbols
+
+### Cult Members
+
+Cults often form hierarchies around a charismatic or domineering leader. While cult members might work independently, they take their orders from superiors with greater supernatural powers. 
+
+### Types of Cultists
+
+Cults can organize around any mystical tradition, but many serve supernatural beings. Cult members often have abilities tied to the forces they worship.
+
+> [!quote] A quote from Rites of the Cult of Elemental Evil  
+> 
+> Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
+
+
+## Statblock
+
+![](compendium/bestiary/humanoid/token/fiend-cultist-xmm.webp#token)
+*Small or Medium humanoid, Neutral Evil*
+
+- **Armor Class** 16
+- **Hit Points** 127 (`17d8 + 51`)
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|19 (+4)|15 (+2)|16 (+3)|12 (+1)|18 (+4)|10 (+0)|
+
+- **Proficiency Bonus** +3
+- **Saving Throws** Constitution +6, Wisdom +7
+- **Skills** [Perception](compendium/rules/skills.md#Perception) +7, [Religion](compendium/rules/skills.md#Religion) +4
+- **Senses** [Darkvision](compendium/rules/senses.md#Darkvision) 90 ft. (unimpeded by magical [Darkness](compendium/rules/variant-rules/darkness-xphb.md)), passive Perception 17
+- **Gear** [breastplate](compendium/items/breastplate-xphb.md)
+- **Languages** Abyssal, Common, Infernal
+- **Challenge** 8
+
+## Actions
+
+***Multiattack.*** The cultist makes three Pact Axe attacks.
+
+***Pact Axe.*** *Melee Attack Roll:* +7, reach 5 ft. *Hit:* 10 (1d12 + 4) Slashing damage plus 13 (3d8) Fire damage.
+
+***Spellcasting.*** The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 15, +7 to hit with spell attacks):
+
+**At will:** [Scorching Ray](compendium/spells/scorching-ray-xphb.md) (level 5 version), [Thaumaturgy](compendium/spells/thaumaturgy-xphb.md)
+
+**2/day:** [Fireball](compendium/spells/fireball-xphb.md) (level 6 version)
+
+## Reactions
+
+***Hellish Rebuke.*** The cultist casts [Hellish Rebuke](compendium/spells/hellish-rebuke-xphb.md) in response to that spell's trigger, using the same spellcasting ability as Spellcasting.
+
+^statblock
+
+## Environment
+
+any

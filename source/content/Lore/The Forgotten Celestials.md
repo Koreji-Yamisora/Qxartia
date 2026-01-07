@@ -65,3 +65,4 @@ Others say they will simply cease to exist.
 - [[Selamonius]] — The Shaping Hand
 - [[Zytharkraen]] · [[Vornesthal]] · [[Kthrimvey]]
 - [[Entropy]]
+- [[The World Tree and The Severing]] — The cosmic catastrophe that diminished the echoes

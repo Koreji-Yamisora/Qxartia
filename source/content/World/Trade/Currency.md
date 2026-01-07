@@ -40,11 +40,11 @@ Most trade uses a **metal currency system** based on D&D standards:
 
 In the land of the Pulse, currency incorporates [[Mana]]:
 
-| Currency | Description |
-|----------|-------------|
-| **Breath-Mark** | Copper coins stamped during the morning Pulse |
-| **Vein-Silver** | Silver coins with trace mana crystallization |
-| **Heartgold** | Gold coins that faintly glow with absorbed mana |
+| Currency        | Description                                     |
+| --------------- | ----------------------------------------------- |
+| **Breath-Mark** | Copper coins stamped during the morning Pulse   |
+| **Vein-Silver** | Silver coins with trace mana crystallization    |
+| **Heartgold**   | Gold coins that faintly glow with absorbed mana |
 
 > 💡 *Heartgold coins are prized because they resist Arcane Entropy — the mana protects the metal.*
 

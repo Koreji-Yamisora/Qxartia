@@ -1,3 +1,7 @@
 {
-  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-blue"
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-blue",
+  "ITS@@dataview-table-auto": false,
+  "ITS@@select": "wotc-beyond",
+  "ITS@@paper": true,
+  "ITS@@writing": false
 }

@@ -1,0 +1,17 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- 5e/compendium/src/5e/xdmg
+- 5e/item/rarity/common
+aliases:
+- "Pole of Angling"
+---
+# Pole of Angling
+*Wondrous item, common*  
+
+
+This item functions as a Pole. While holding it, you can take a [Magic](compendium/rules/actions.md#Magic) action to cause it to transform into a fishing pole with a hook, a line, and a reel, or have the fishing pole revert to a Pole.
+
+*Source: Dungeon Master's Guide (2024) p. 286*

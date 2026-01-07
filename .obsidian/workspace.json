@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/Entropy.md",
+                "file": "source/content/Systems/Mana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entropy"
+              "title": "Mana"
             }
           }
         ]
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qxartia.md",
+                "file": "compendium/bestiary/beast/archelon-xmm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Qxartia"
+              "title": "Outgoing links from archelon-xmm"
             }
           },
           {
@@ -190,6 +190,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ca7779a9697e0716",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 1
@@ -219,47 +229,54 @@
   },
   "active": "58d771c8ffb7e363",
   "lastOpenFiles": [
-    "World/Current Political Landscape.md",
-    "World/Trade/Currency.md",
-    "Lore/Fallen Holy Empire.md",
-    "Lore/Bestiary.md",
-    "Lore/Races.md",
-    "Lore/World Axis Reference.md",
-    "World/Cosmology/The Shadowfell.md",
-    "World/Cosmology/The Elemental Chaos.md",
-    "World/Cosmology/The Astral Sea.md",
-    "World/History/The Severing.md",
-    "Lore/The Drifting Ones.md",
-    "Lore/The Forgotten Celestials.md",
-    "Lore/Lost Past/Lost Past.md",
-    "Lore/Lost Past/Scriptures and Fragments.md",
-    "Lore/Lost Past/The Forgotten.md",
-    "World/Continents/Kthrimvey.md",
-    "Systems/Entropy.md",
-    "Lore/The Forgotten Ones.md",
-    "Systems/Invasion.md",
-    "Lore/The Pantheon.md",
-    "Qxartia.md",
-    "World/Cosmology/The Abyss.md",
-    "World/Cosmology/The Celestial.md",
-    "World/Cosmology/The Feywild.md",
-    "World/Cosmology/The Planes.md",
-    "Lore/Selamonius.md",
-    "World/Organizations/Mercenary Companies",
-    "World/Organizations/Adventurer Guilds",
-    "World/Organizations",
-    "World/Trade",
-    "World/History/Wars",
-    "World/History/Kingdom Perspectives",
-    "World/History",
-    "World/Continents/Kthrimvey/Kingdoms/Root-Sea Nomads",
-    "World/Continents/Kthrimvey/Kingdoms/Grove Keepers",
-    "World/Continents/Kthrimvey/Kingdoms/Canopy Courts",
+    "source/content/Lore/The World Tree and The Severing.md",
+    "source/content/World/Current Political Landscape.md",
+    "source/content/index.md",
+    "source/content/World/Strong Verbs for Fantasy Writing.md",
+    "source/content/World/Descriptive Adjectives and Character Traits.md",
+    "source/content/World/Cinematic Scene Rendering.md",
+    "source/content/World/Trade/Trade Routes.md",
+    "source/content/World/Trade/Currency.md",
+    "source/content/World/The Four Axel/Darkness Kingdom/Darkness Kingdom.md",
+    "source/content/World/Cosmology/The Void.md",
+    "source/content/Systems/Invasion.md",
+    "source/content/World/The Four Axel/Darkness Kingdom/Cities/Kastana.md",
+    "source/content/World/The Four Axel/Darkness Kingdom/Cities/Vamulor.md",
+    "source/content/World/History/The Severing.md",
+    "source/content/World/History/Definitive Timeline.md",
+    "source/content/Lore/Selamonius.md",
+    "source/content/World/History/Wars/The War of Borders.md",
+    "source/content/World/History/Wars/The Entropy Schism.md",
+    "source/content/Lore/The Forgotten Ones.md",
+    "source/content/Lore/The Forgotten Celestials.md",
+    "source/content/Lore/The Pantheon.md",
+    "source/content/Lore/World Axis Reference.md",
+    "source/content/Lore/The Drifting Ones.md",
+    "source/content/Lore/Races.md",
+    "source/content/Lore/Bestiary.md",
+    "compendium/decks/deck-of-many-things-13-cards-xdmg.md",
+    "compendium/compendium/bestiary/monstrosity/img/remorhazes.webp",
+    "compendium/compendium/bestiary/dragon/token/ancient-blue-dragon-xmm.webp",
+    "compendium/compendium/bestiary/monstrosity/img/weretiger.webp",
+    "compendium/compendium/bestiary/beast/img/lizard.webp",
+    "compendium/compendium/items/img/weapon-of-warning.webp",
+    "compendium/compendium/bestiary/fiend/token/nalfeshnee-xmm.webp",
+    "compendium/compendium/classes/img/wild-magic-sorcerer.webp",
+    "compendium/compendium/bestiary/celestial/token/solar-xmm.webp",
+    "compendium/compendium/bestiary/undead/token/wight-xmm.webp",
+    "compendium/compendium/bestiary/monstrosity/token/yuan-ti-malison-type-2-xmm.webp",
+    "compendium/compendium/bastions/img",
+    "compendium/compendium/bastions",
+    "compendium/compendium/bestiary/miscellaneous/token",
+    "compendium/compendium/objects/img",
+    "compendium/compendium/bestiary/miscellaneous/img",
+    "compendium/compendium/bestiary/miscellaneous",
+    "compendium/compendium/traps-hazards/img",
+    "compendium/compendium/traps-hazards",
+    "compendium/compendium/bestiary/undead/img",
+    "compendium/compendium/bestiary/plant/img",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "photonics/CleanShot 2568-09-15 at 14.40.41@2x.png",
-    "Quotes/IMG-20250821103402969.png",
-    "1. Introduction to Computers and python/IMG-20250821094527822.png"
+    "Untitled.canvas"
   ]
 }

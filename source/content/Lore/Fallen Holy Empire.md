@@ -72,6 +72,16 @@ If people learned this, they might:
 > 🌑 *"The Empire did not fear that the Pantheon was dead. They feared that the Pantheon was not dead* enough*."*
 > — Recovered Inquisition document
 
+### 5. The Problem of the World Tree
+The most dangerous truth of all: before [[The Severing]], [[The World Tree and The Severing|The World Tree]] provided **abundant mana** to all. Magic was not the province of the gifted few — it was the birthright of everyone.
+
+If people learned this, they would realize:
+- The current scarcity of magic is **artificial** — a consequence of cosmic catastrophe, not divine design
+- The Empire's control over magical knowledge was built on a lie
+- **Flying cities, mana-engines, universal spellcasting** — all of it was possible once, and might be possible again
+
+The Empire systematically erased records of the pre-Severing civilization, dismissing them as "myth" or "exaggeration."
+
 ---
 
 ## History of the Empire

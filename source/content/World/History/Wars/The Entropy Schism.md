@@ -26,27 +26,28 @@ Those who believed Entropy could and should be resisted:
 ### The Accepters
 Those who believed Entropy was natural and necessary:
 
-| Supporter | Reasoning |
-|-----------|-----------|
-| [[Grove Keepers]] | "The trees accept. The memories accept. So must we." |
-| [[Pulse-Keepers]] (majority) | "The Pulse includes exhalation AND fading. Both are sacred." |
-| [[Stone-Singer Confederation]] (some) | "The silent pillars teach: not all decay is loss." |
-| [[Canopy Courts]] | "We remember properly because we do not cling. Accept and transcend." |
+| Supporter                             | Reasoning                                                             |
+| ------------------------------------- | --------------------------------------------------------------------- |
+| [[Grove Keepers]]                     | "The trees accept. The memories accept. So must we."                  |
+| [[Pulse-Keepers]] (majority)          | "The Pulse includes exhalation AND fading. Both are sacred."          |
+| [[Stone-Singer Confederation]] (some) | "The silent pillars teach: not all decay is loss."                    |
+| [[Canopy Courts]]                     | "We remember properly because we do not cling. Accept and transcend." |
 
 ---
 
 ## Key Events
 
-| Year | Event |
-|------|-------|
-| ~1502 | The [[Grove Keepers]] publish "The Sermon of Release" — embracing Entropy |
-| ~1510 | Marsh Warden Commander denounces Sermon; calls it "surrender" |
-| ~1520 | [[Salt Lords of Karveth|Salt Lord]] expedition claims to have "pushed back" the Marshes (disputed) |
-| ~1530 | [[Pulse-Keepers]] fracture: Dawn Orthodoxy (Accept) vs Night Reform (Activist) |
-| ~1550 | First violence: Activist mob burns a Grove Keeper monastery |
-| ~1560 | The **Shadow War** begins — assassinations, sabotage, proxy conflicts |
-| ~1590 | The Battle of the Hollow Border — open warfare at the Marsh frontier |
-| ~1600 | Treaty of Silence — neither side wins; both agree to coexist |
+| Year  | Event                                                                          |                                                                            |
+| ----- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| ~1502 | The [[Grove Keepers]] publish "The Sermon of Release" — embracing Entropy      |                                                                            |
+| ~1510 | Marsh Warden Commander denounces Sermon; calls it "surrender"                  |                                                                            |
+| ~1520 | [[Salt Lords of Karveth                                                        | Salt Lord]] expedition claims to have "pushed back" the Marshes (disputed) |
+| ~1530 | [[Pulse-Keepers]] fracture: Dawn Orthodoxy (Accept) vs Night Reform (Activist) |                                                                            |
+| ~1550 | First violence: Activist mob burns a Grove Keeper monastery                    |                                                                            |
+| ~1560 | The **Shadow War** begins — assassinations, sabotage, proxy conflicts          |                                                                            |
+| ~1590 | The Battle of the Hollow Border — open warfare at the Marsh frontier           |                                                                            |
+| ~1600 | Treaty of Silence — neither side wins; both agree to coexist                   |                                                                            |
+|       |                                                                                |                                                                            |
 
 ---
 

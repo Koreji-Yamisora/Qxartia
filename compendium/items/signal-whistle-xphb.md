@@ -1,0 +1,19 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- 5e/compendium/src/5e/xphb
+- 5e/item/gear/
+- 5e/item/rarity/none
+aliases:
+- "Signal Whistle"
+---
+# Signal Whistle
+*Adventuring gear*  
+
+- **Cost**: 5 cp
+
+When blown as a [Utilize](compendium/rules/actions.md#Utilize) action, a Signal Whistle produces a sound that can be heard up to 600 feet away.
+
+*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

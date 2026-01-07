@@ -30,12 +30,12 @@ Sacred trees: release stored mana when touched
 
 Mana behaves differently based on local conditions — not continental borders:
 
-| Region Type | Mana Behavior |
-|-------------|---------------|
-| **Pulse Vents** (fertile lands) | Flows fast and freely; decays faster; spells last 1-2 days |
-| **Fungal Caves** | Rare and slow; must be harvested from roots; stones last up to 3 weeks |
-| **Ancient Forests** | Organic and cyclical; closed loop through plants/soil/fungi |
-| **Entropy Zones** | Mana behaves unpredictably; see [[Entropy]] for regional effects |
+| Region Type                     | Mana Behavior                                                          |
+| ------------------------------- | ---------------------------------------------------------------------- |
+| **Pulse Vents** (fertile lands) | Flows fast and freely; decays faster; spells last 1-2 days             |
+| **Fungal Caves**                | Rare and slow; must be harvested from roots; stones last up to 3 weeks |
+| **Ancient Forests**             | Organic and cyclical; closed loop through plants/soil/fungi            |
+| **Entropy Zones**               | Mana behaves unpredictably; see [[Entropy]] for regional effects       |
 
 ---
 
@@ -68,12 +68,12 @@ Such beings may come from:
 
 [[Entropy]] makes magic **temporary — not weak, but fleeting**. Effects depend on the local entropy type:
 
-| Entropy Type | Effect on Magic |
-|--------------|-----------------|
-| **Arcane** | Spells unravel mid-casting; enchanted objects lose glow within hours |
-| **Vital** | [[Miasma]] becomes dull gray instead of vibrant purple; life-based magic fades 2x faster |
-| **Temporal** | Spell durations become unpredictable — 48 hours or 12 hours at random |
-| **Memory** | Casters sometimes forget incantations mid-spell |
+| Entropy Type | Effect on Magic                                                                          |
+| ------------ | ---------------------------------------------------------------------------------------- |
+| **Arcane**   | Spells unravel mid-casting; enchanted objects lose glow within hours                     |
+| **Vital**    | [[Miasma]] becomes dull gray instead of vibrant purple; life-based magic fades 2x faster |
+| **Temporal** | Spell durations become unpredictable — 48 hours or 12 hours at random                    |
+| **Memory**   | Casters sometimes forget incantations mid-spell                                          |
 
 ---
 

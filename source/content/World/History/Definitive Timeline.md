@@ -15,13 +15,13 @@ _As recorded by the Chord-Keepers of Vornesthal, with contributions from the Gro
 
 ## The Age of Shaping (~Year 0)
 
-| Event | Description |
-|-------|-------------|
-| **The First Pressing** | Selamonius gives form to the first Celestial → becomes [[Zytharkraen]] |
-| **The Second Pressing** | Another Celestial accepts form → becomes [[Vornesthal]] |
-| **The Third Pressing** | The last Celestial is shaped → becomes [[Kthrimvey]] |
-| **The First Breath** | Zytharkraen exhales for the first time → the [[Pulse-Keepers]] call this Year 0 |
-| **Selamonius Withdraws** | The Shaping Hand departs or transforms; no further record |
+| Event                    | Description                                                                     |
+| ------------------------ | ------------------------------------------------------------------------------- |
+| **The First Pressing**   | Selamonius gives form to the first Celestial → becomes [[Zytharkraen]]          |
+| **The Second Pressing**  | Another Celestial accepts form → becomes [[Vornesthal]]                         |
+| **The Third Pressing**   | The last Celestial is shaped → becomes [[Kthrimvey]]                            |
+| **The First Breath**     | Zytharkraen exhales for the first time → the [[Pulse-Keepers]] call this Year 0 |
+| **Selamonius Withdraws** | The Shaping Hand departs or transforms; no further record                       |
 
 > *"To be given form is to be given ending."* — Canopy Scrolls
 
@@ -59,15 +59,16 @@ _As recorded by the Chord-Keepers of Vornesthal, with contributions from the Gro
 
 ## The Age of Entropy (Years 1500-Present)
 
-| Year | Event |
-|------|-------|
-| ~1600 | The Entropy Schism leads to the **Second War of Borders** |
-| ~1700 | Second War ends; [[Entropy]] noticeably accelerating |
-| ~1800 | The [[Hollow Marshes]] expand 30% faster than previous century |
+| Year  | Event                                                                        |
+| ----- | ---------------------------------------------------------------------------- |
+| ~1600 | The Entropy Schism leads to the **Second War of Borders**                    |
+| ~1700 | Second War ends; [[Entropy]] noticeably accelerating                         |
+| ~1800 | The [[Hollow Marshes]] expand 30% faster than previous century               |
 | ~1900 | First contact with [[The Void]] — travelers report a realm between realities |
-| ~2000 | The Migration begins — some flee to [[The Void]] permanently |
-| ~2100 | [[Silenthold Schism]] threatens [[Stone-Singer Confederation]] |
-| ~2200 | Present day — fragile peace, rising tensions, entropy advancing |
+| ~2000 | The Migration begins — some flee to [[The Void]] permanently                 |
+| ~2100 | [[Silenthold Schism]] threatens [[Stone-Singer Confederation]]               |
+| ~2200 | Present day — fragile peace, rising tensions, entropy advancing              |
+|       |                                                                              |
 
 ---
 

@@ -1,0 +1,17 @@
+{
+  "from": [
+    "XPHB",
+    "XDMG",
+    "XMM"
+  ],
+  "paths": {
+    "compendium": "compendium/",
+    "rules": "compendium/rules/"
+  },
+  "images": {
+    "copyExternal": true,
+    "copyInternal": true
+  },
+  "useDiceRoller": true,
+  "tagPrefix": "5e"
+}

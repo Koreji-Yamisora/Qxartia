@@ -1,0 +1,20 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- 5e/compendium/src/5e/xphb
+- 5e/item/gear/
+- 5e/item/rarity/none
+aliases:
+- "Spyglass"
+---
+# Spyglass
+*Adventuring gear*  
+
+- **Cost**: 1,000 gp
+- **Weight**: 1.0 lbs.
+
+Objects viewed through a Spyglass are magnified to twice their size.
+
+*Source: Player's Handbook (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

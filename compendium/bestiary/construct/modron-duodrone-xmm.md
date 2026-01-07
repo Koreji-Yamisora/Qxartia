@@ -1,0 +1,92 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- 5e/compendium/src/5e/xmm
+- 5e/monster/cr/1-4
+- 5e/monster/environment/mechanus
+- 5e/monster/environment/planar
+- 5e/monster/size/medium
+- 5e/monster/type/construct
+aliases:
+- "Modron Duodrone"
+---
+# Modron Duodrone
+*Source: Monster Manual (2024) p. 217*  
+
+Duodrones can perform two tasks at once and often oversee monodrone work groups. They are slightly more skeptical of strangers than monodrones are.
+
+## Modrons
+
+*Mechanized Caretakers of Multiversal Law*
+
+- **Habitat.** Planar (Mechanus)  
+- **Treasure.** None  
+
+Beings of magic and machinery, modrons embody absolute law. These inhabitants of the clockwork plane of Mechanus tend to the incredible mechanisms of their orderly home and oppose chaotic forces across the multiverse.
+
+Modrons are parts of a vast hierarchy, spanning from quirky monodrones to the leader of their kind, the godlike Primus. Every modron carries out tasks assigned to it by higher-ranking modrons, doing so without question. Generally, modrons communicate only with other modrons of their own rank or the ranks immediately above and below them. Those more than one rank away tend to be either too advanced or too simple for them to understand.
+
+Modrons excel at tasks that require patience and precision, but they have little understanding of non-literal concepts such as art or humor. They have no egos; they have only their work and the certainty that multiversal law depends on their efficacy.
+
+In rare cases, a modron goes rogue and develops its own will. In these cases, other modrons are sent to recover or destroy their malfunctioning kin.
+
+### Modron Marches
+
+Whether in service to lawful deities or as part of the Great Modron March, modrons travel from Mechanus to spread their vision of law to other planes of existence. Roll on or choose a result from the Modron Operations table to inspire what effort leads a group of modrons to other realms.
+
+**Modron Operations**
+
+| dice: 1d8 | The Modrons Work To... |
+|-----------|------------------------|
+| 1 | Create a clockwork outpost to monitor the balance of obscure planar forces. |
+| 2 | Ensure neither side gains the upper hand in a conflict between good and evil. |
+| 3 | Excavate a portal to another plane. |
+| 4 | Find a lost contingent of modrons. |
+| 5 | Reactivate a titanic but lost modron device. |
+| 6 | Remove a forest, mountain, or city before the arrival of a modron procession. |
+| 7 | Seal off a planar rift or wild magic zone. |
+| 8 | Wage war with demons, slaadi, or chaotic Fey. |
+^modron-operations
+
+> [!quote] A quote from A planar explorer learning modrons have no sense of humor  
+> 
+> The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
+
+
+## Statblock
+
+![](compendium/bestiary/construct/token/modron-duodrone-xmm.webp#token)
+*Medium construct, Lawful Neutral*
+
+- **Armor Class** 15
+- **Hit Points** 11 (`2d8 + 2`)
+- **Speed** 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11 (+0)|13 (+1)|12 (+1)| 6 (-2)|10 (+0)| 7 (-2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** [Truesight](compendium/rules/senses.md#Truesight) 120 ft., passive Perception 10
+- **Condition Immunities** [charmed](compendium/rules/conditions.md#Charmed)
+- **Languages** Modron
+- **Challenge** 1/4
+
+## Traits
+
+***Disintegration.*** If the modron dies, it disintegrates into dust, leaving behind anything it was wearing or carrying.
+
+## Actions
+
+***Multiattack.*** The modron makes two Clockwork Blade attacks.
+
+***Clockwork Blade.*** *Melee  or Ranged Attack Roll:* +3, reach 5 ft. or range 30 ft. *Hit:* 4 (1d6 + 1) Force damage. *Hit or Miss:* The blade magically returns to the modron's hand immediately after a ranged attack.
+^statblock
+
+## Environment
+
+planar, mechanus

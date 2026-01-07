@@ -15,10 +15,10 @@ While the World Axis describes the planes connected to [[Qxartia]] (the Material
 
 ## Properties
 
-| Aspect | Effect |
-|--------|--------|
-| **Time Dilation** | 1 hour here = 1 minute in the real world |
-| **Purpose** | A place to rest, to escape, to observe |
+| Aspect               | Effect                                                               |
+| -------------------- | -------------------------------------------------------------------- |
+| **Time Dilation**    | 1 hour here = 1 minute in the real world                             |
+| **Purpose**          | A place to rest, to escape, to observe                               |
 | **Alternate Selves** | You may see versions of yourself from other realities walking around |
 
 > *"Trust me, you will see lots of the rulers' alternate selves walking around and doing their work."*

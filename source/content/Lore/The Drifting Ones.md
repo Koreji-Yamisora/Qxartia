@@ -59,6 +59,16 @@ Though they have forgotten themselves, traces of their old nature linger:
 | [[Vornesthal]]  | **The Stone-Song** — the pillars hum when wind passes through     |
 | [[Kthrimvey]]   | **The Whispers** — trees speak fragments of forgotten memories    |
 
+### Connection to the World Tree
+
+Before [[The Severing]], [[The World Tree and The Severing|The World Tree]] channeled cosmic mana through the continents themselves. The Drifting Ones — now pressed into land — served as **mana conduits**:
+
+- **The Pulse** in Zytharkraen was once continuous, not just at dawn
+- **The Stone-Song** resonated with the tree's harmonic frequencies
+- **The Whispers** carried messages between the mortal and divine realms
+
+When the World Tree was severed, these echoes faded to mere remnants of their former power.
+
 ---
 
 ## The Final Forgetting

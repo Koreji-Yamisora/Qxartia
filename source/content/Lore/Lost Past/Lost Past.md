@@ -24,6 +24,17 @@ The forgotten does not disappear. It transforms:
 | [[The Forgotten]] | Beings who have forgotten themselves — or been forgotten by the world |
 | [[The Stone-Song]] | Vornesthal's pillars hum melodies no one taught them — echoes of a celestial's stillness |
 | [[Borrowed Memories]] | In the Memory Groves, you can take memories that were never yours |
+| [[The World Tree and The Severing\|The World Tree]] | The cosmic conduit that once fed mana to the world — now severed and lost |
+
+### The Mana-Rich Era
+
+The greatest of the Lost Pasts is the **Age of Abundance** — the era before [[The Severing]] when [[The World Tree and The Severing|The World Tree]] channeled unlimited mana into the mortal world:
+
+- Flying cities drifted across the sky
+- Common folk could cast cantrips without training
+- Magical technology was as ubiquitous as fire is today
+
+Most people do not know this era ever existed. The [[Fallen Holy Empire]] ensured that.
 
 ---
 

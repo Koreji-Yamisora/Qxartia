@@ -52,12 +52,30 @@ The Pantheon did not last. One by one, they fell — or vanished, or were destro
 
 This cataclysm is called [[The Severing]].
 
+### The Age Before
+
+Before The Severing, [[The World Tree and The Severing|The World Tree]] connected the divine realms to the mortal world:
+
+- **Ambient mana** filled the air, making magic accessible to all
+- Civilizations built **mana-powered technology**: flying cities, skyships, eternal lights
+- The Pantheon walked among mortals through the World Tree's branches
+- Magic items were common; enchantments were trivial
+
+### The Cataclysm
+
+When The Severing occurred:
+
 | Before The Severing | After The Severing |
-|--------------------|-----------------|
+|--------------------|-------------------|
 | Planes bound in a tree-like structure | Planes drift in the [[World Axis Reference|World Axis]] |
 | [[The Celestial]] reachable via [[The Feywild]] | The Celestial is **severed** — no path remains |
 | Elemental planes distinct | Collapsed into [[The Elemental Chaos]] |
 | Divine emissaries walked among mortals | The heavens are **silent** |
+| **Air saturated with mana** | **90% of ambient mana lost** |
+| Flying cities, mana-engines | Crashed ruins, obsolete technology |
+
+> *"When the Tree fell, the sky itself grew thin. The power that had sustained empires bled away like water through sand."*
+> — Recovered pre-Severing chronicle
 
 ---
 

@@ -78,13 +78,30 @@ Each remembers nothing of what it was. Each is slowly forgetting what it became.
 
 ---
 
+## The World Tree
+
+Before [[The Severing]], Selamonius tended [[The World Tree and The Severing|The World Tree]] — the cosmic conduit through which divine mana flowed into the mortal world. Under her stewardship:
+
+- The air was **saturated with ambient magic**
+- Civilizations built mana-powered technology: flying cities, eternal lights, skyships
+- Common folk could perform basic cantrips without training
+- The boundary between the divine and mortal realms was thin
+
+> *From the Lithic Tablets:*
+>
+> *"The Hand that shaped the land also fed it. Through the roots of the great tree, she poured endless power into the world she had made."*
+
+---
+
 ## What Became of Selamonius?
 
-No scripture records what happened after the shaping. Some theories:
+When [[The Severing]] occurred, Selamonius **withdrew** to [[World Axis Reference|The Celestial]], severing her connection to the mortal realm. No scripture records *why*:
 
-- The Hand **withdrew**, her work complete
-- She still walks among the stars, shaping other worlds
-- The act of shaping **changed the shaper** — Selamonius became something else
+- Did she **cause** The Severing intentionally?
+- Did she **flee** some greater catastrophe?
+- Was the act of severing **forced upon her**?
+
+What is known: the moment the World Tree was cut from its divine roots, ambient mana began to bleed away. Civilizations that had depended on it collapsed. And Selamonius has not spoken to mortals since.
 
 > *From the Requiem of Still Things:*
 >

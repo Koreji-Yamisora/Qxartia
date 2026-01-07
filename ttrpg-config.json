@@ -1,0 +1,19 @@
+{
+  "from": [
+    "XPHB",
+    "XDMG",
+    "XMM",
+    "MM"
+  ],
+  "paths": {
+    "compendium": "compendium/",
+    "rules": "compendium/rules/"
+  },
+  "images": {
+    "copyExternal": true,
+    "copyInternal": true
+  },
+  "useDiceRoller": false,
+  "yamlStatblocks": true,
+  "tagPrefix": "5e"
+}

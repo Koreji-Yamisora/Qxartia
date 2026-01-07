@@ -18,14 +18,14 @@ This bestiary organizes creatures by their **planar origin** and notes how [[Ent
 ### Beasts
 Common animals found across all continents:
 
-| Creature | Description | Entropy Effect |
-|----------|-------------|----------------|
-| **Wolves** | Pack hunters, common in forests | Become gaunt, desperate, attack more readily |
-| **Bears** | Territorial, powerful | Some hibernate permanently, never waking |
+| Creature          | Description                           | Entropy Effect                               |
+| ----------------- | ------------------------------------- | -------------------------------------------- |
+| **Wolves**        | Pack hunters, common in forests       | Become gaunt, desperate, attack more readily |
+| **Bears**         | Territorial, powerful                 | Some hibernate permanently, never waking     |
 | **Giant Spiders** | Ambush predators in caves and forests | Webs become brittle, spiders more aggressive |
-| **Horses** | Domesticated mounts | Tire faster, breeding becomes difficult |
-| **Eagles/Hawks** | Hunting birds | Migration patterns become erratic |
-| **Boars** | Aggressive forest dwellers | Meat becomes gray and tasteless |
+| **Horses**        | Domesticated mounts                   | Tire faster, breeding becomes difficult      |
+| **Eagles/Hawks**  | Hunting birds                         | Migration patterns become erratic            |
+| **Boars**         | Aggressive forest dwellers            | Meat becomes gray and tasteless              |
 
 ### Monstrosities
 Twisted creatures of the Material Plane:

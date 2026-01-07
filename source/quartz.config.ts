@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "YOURUSERNAME.github.io/qxartia",
+    baseUrl: "koreji-yamisora.github.io/Qxartia",
     ignorePatterns: ["private", "templates", ".obsidian", ".smart-env", "copilot"],
     defaultDateType: "modified",
     theme: {

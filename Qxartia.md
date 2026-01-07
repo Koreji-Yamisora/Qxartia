@@ -9,6 +9,7 @@ Qxartia is a world of three supercontinents shaped by ancient forces and the slo
 
 - **Genre**: Brutal and tragic
 - **Core Theme**: Entropy and [[Invasion]] — entropy is slow, natural decay; invasion is entropy's quiet expansion
+- **Escape Route**: Those fleeing Qxartia's decay often seek refuge in [[The Void]], particularly [[The Four Axel]]
 
 ---
 
@@ -114,6 +115,9 @@ This structure emerged after [[The Severing]] — the cataclysm when [[The Panth
 - [[The Pantheon]]
 - [[The Severing]]
 - [[World Axis Reference]]
+- [[Races]]
+- [[Bestiary]]
+- [[Fallen Holy Empire]]
 
 ### Cosmology
 - [[The Planes]]

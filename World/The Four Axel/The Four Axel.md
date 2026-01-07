@@ -7,7 +7,7 @@ _"So pick a side… It's going to be one hell of a story"_
 
 ## Overview
 
-The Four Axel is one of the continents within [[The Void]] — the liminal space between Alternate Universes. Unlike [[Qxartia]], which exists in a single reality, The Four Axel floats in the space-between, where time moves slower and the boundaries of self blur.
+The Four Axel is one of the continents within [[The Void]] — the liminal space between Alternate Universes. Unlike [[Qxartia]], which exists within the [[World Axis Reference|World Axis]], The Four Axel floats in the space-between, where time moves slower and the boundaries of self blur.
 
 This continent consists of **four kingdoms**, each embodying a different aspect of existence:
 
@@ -69,7 +69,46 @@ Led by a young ruler rumored to be a tyrant who made a pact with one of the **7 
 
 ---
 
+## Connection to Qxartia
+
+The Four Axel has a deep and growing relationship with [[Qxartia]]:
+
+### The Great Migration
+
+As [[Entropy]] and [[Invasion]] ravage Qxartia, many have fled through [[The Void]] to seek refuge in The Four Axel. These refugees bring:
+
+| What They Bring | Effect on The Four Axel |
+|-----------------|------------------------|
+| **Knowledge** | Scholars share lore of [[The Severing]], the planes, and lost magic |
+| **Trade goods** | Rare materials from [[Zytharkraen]], [[Vornesthal]], [[Kthrimvey]] |
+| **Conflict** | Old grudges and kingdom rivalries follow the refugees |
+| **Desperation** | Some will do anything for safety — including dark bargains |
+
+### Alternate Selves
+
+Because The Void touches many realities, **alternate versions of Qxartian individuals** sometimes appear in The Four Axel:
+
+- A merchant from [[Veinia Prime]] might meet a version of themselves who became a warlord
+- Rulers of The Four Axel reportedly see their alternates regularly
+- Some believe the **Darkness Kingdom's young tyrant** may be an alternate version of someone from Qxartia's history
+
+### Portals and Passages
+
+| Method | Description |
+|--------|-------------|
+| **Void Rifts** | Rare tears in reality, often near [[Entropy]] zones |
+| **The Dream Kingdom's Gates** | Said to open to those who truly wish to escape |
+| **Death's Edge** | Some who nearly die in Qxartia wake in The Void instead |
+| **Deliberate Magic** | Powerful mages can force passage, but it is exhausting and dangerous |
+
+> 🌑 *"Qxartia bleeds. The Four Axel catches what falls."*
+> — Refugee proverb
+
 ## See Also
-- [[The Void]]
+- [[The Void]] — The space between realities
+- [[Qxartia]] — The dying world that feeds The Four Axel with refugees
+- [[Entropy]] — Why people flee
+- [[Invasion]] — Why people flee
 - [[Darkness Kingdom]]
 - [[Mana]]
+

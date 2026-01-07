@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Systems/Mana.md",
+                "file": "source/content/Lore/The World Tree and The Severing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mana"
+              "title": "The World Tree and The Severing"
             }
           }
         ]
@@ -229,6 +229,7 @@
   },
   "active": "58d771c8ffb7e363",
   "lastOpenFiles": [
+    "source/content/Systems/Mana.md",
     "source/content/Lore/The World Tree and The Severing.md",
     "source/content/World/Current Political Landscape.md",
     "source/content/index.md",
@@ -254,7 +255,6 @@
     "source/content/Lore/The Drifting Ones.md",
     "source/content/Lore/Races.md",
     "source/content/Lore/Bestiary.md",
-    "compendium/decks/deck-of-many-things-13-cards-xdmg.md",
     "compendium/compendium/bestiary/monstrosity/img/remorhazes.webp",
     "compendium/compendium/bestiary/dragon/token/ancient-blue-dragon-xmm.webp",
     "compendium/compendium/bestiary/monstrosity/img/weretiger.webp",
